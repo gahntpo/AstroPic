@@ -12,5 +12,5 @@ PART 1  https://youtu.be/h77vfLo8eaA
 
 PART 2 https://youtu.be/bS_XrFyX8Bk
 
-
+ ![](AstroPic/images/master.png)
  ![](AstroPic/images/detail.png)
