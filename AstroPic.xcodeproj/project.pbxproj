@@ -69,7 +69,6 @@
 		170CD83B2789F07B007CB060 = {
 			isa = PBXGroup;
 			children = (
-				170CD874278A15B7007CB060 /* images */,
 				170CD8462789F07B007CB060 /* AstroPic */,
 				170CD8452789F07B007CB060 /* Products */,
 			);
@@ -86,6 +85,7 @@
 		170CD8462789F07B007CB060 /* AstroPic */ = {
 			isa = PBXGroup;
 			children = (
+				170CD874278A15B7007CB060 /* images */,
 				170CD8472789F07B007CB060 /* AstroPicApp.swift */,
 				170CD8492789F07B007CB060 /* ContentView.swift */,
 				170CD855278A13A4007CB060 /* Model */,
